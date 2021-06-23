@@ -1,0 +1,16 @@
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\DotnetCsharpClass.exe
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\DotnetCsharpClass.deps.json
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\DotnetCsharpClass.runtimeconfig.json
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\DotnetCsharpClass.runtimeconfig.dev.json
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\DotnetCsharpClass.dll
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\ref\DotnetCsharpClass.dll
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\bin\Debug\net5.0\DotnetCsharpClass.pdb
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.csproj.AssemblyReference.cache
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.AssemblyInfoInputs.cache
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.AssemblyInfo.cs
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.dll
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\ref\DotnetCsharpClass.dll
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.pdb
+C:\Users\Aldo Albuquerque\Downloads\DotnetCsharpClass\obj\Debug\net5.0\DotnetCsharpClass.genruntimeconfig.cache
